@@ -12,7 +12,7 @@
     </queries>
     
     <application
-        android:label="flutter_application_1"
+        android:label="API接続"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
